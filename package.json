@@ -1,7 +1,7 @@
 {
     "name": "kycunitypkg",
     "version": "0.1.4",
-    "displayName": "PineoneLuaScript",
+    "displayName": "KYCLuaScript",
     "description": "0.1.4 Update",
     "type": "tool"
 }
